@@ -1,0 +1,8 @@
+{
+	"name": "package-json",
+	"version": "1.0.0",
+	"license": "MIT",
+	"description": "blok tech package.json",
+	"keywords": ["package.json", "tech"],
+	"author": "Deniz"
+	}
