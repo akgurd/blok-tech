@@ -1,8 +1,27 @@
 {
-	"name": "package-json",
-	"version": "1.0.0",
-	"license": "MIT",
-	"description": "blok tech package.json",
-	"keywords": ["package.json", "tech"],
-	"author": "Deniz"
-	}
+  "name": "package-json",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "blok tech package.json",
+  "keywords": [
+    "package.json",
+    "tech"
+  ],
+  "author": "Deniz",
+  "dependencies": {
+    "camelcase": "^7.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akgurd/blok-tech.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akgurd/blok-tech/issues"
+  },
+  "homepage": "https://github.com/akgurd/blok-tech#readme"
+}
