@@ -9,7 +9,8 @@
   ],
   "author": "Deniz",
   "dependencies": {
-    "camelcase": "^7.0.1"
+    "camelcase": "^7.0.1",
+    "express-handlebars": "^7.0.7"
   },
   "scripts": {
     "precompress": "{{ executes BEFORE the `compress` script }}",
@@ -17,7 +18,6 @@
     "postcompress": "{{ executes AFTER `compress` script }}"
   },
   "main": "server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akgurd/blok-tech.git"
