@@ -32,3 +32,7 @@ function onhome(req, res) {
 function onabout(req, res) {
     res.send('<h1>About me</h1>')
 }
+
+app.get('/', function(req, res) {
+    res.render('home', { title: 'Homepage' });
+  });
