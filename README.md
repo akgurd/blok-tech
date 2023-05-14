@@ -1,7 +1,7 @@
 # blok-tech
 
 
-##Inhoudsopgave
+## Inhoudsopgave
 
 * Mijn app
 * Installeren
@@ -11,14 +11,14 @@
 * Wiki
 
 
-##Mijn app
+## Mijn app
 
-##Installeren
+## Installeren
 
-##Contributors
+## Contributors
 
-##License
+## License
 
-##Uitleg code
+## Uitleg code
 
-##Wiki
+## Wiki
