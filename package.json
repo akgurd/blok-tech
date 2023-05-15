@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/akgurd/blok-tech/issues"
   },
-  "homepage": "https://github.com/akgurd/blok-tech#readme"
+  "homepage": "https://github.com/akgurd/blok-tech#readme",
+  "devDependencies": {
+    "eslint": "^8.40.0",
+    "prettier": "2.8.8"
+  }
 }
