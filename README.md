@@ -1,4 +1,24 @@
 # blok-tech
-CMD jaar 2 blok 4 tech
 
-hiiiiii
+
+## Inhoudsopgave
+
+* Mijn app
+* Installeren
+* Contributors
+* License
+* Uitleg code
+* Wiki
+
+
+## Mijn app
+
+## Installeren
+
+## Contributors
+
+## License
+
+## Uitleg code
+
+## Wiki
