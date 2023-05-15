@@ -10,7 +10,8 @@
   "author": "Deniz",
   "dependencies": {
     "camelcase": "^7.0.1",
-    "express-handlebars": "^7.0.7"
+    "express-handlebars": "^7.0.7",
+    "nodemon": "^2.0.22"
   },
   "scripts": {
     "precompress": "{{ executes BEFORE the `compress` script }}",
