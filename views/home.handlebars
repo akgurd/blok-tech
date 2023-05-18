@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Example App - Home</title>
+    <title>Favorites</title>
 </head>
 <body>
 
@@ -16,6 +16,15 @@
 
     <!-- Calls `bar` helper, defined at instance-level. -->
     <p>{{bar}}</p>
+
+    <!-- Include Handlebars from a CDN -->
+<script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+<script>
+  // compile the template
+  var template = Handlebars.compile("Handlebars <b>{{doesWhat}}</b>");
+  // execute the compiled template and print the output to the console
+  console.log(template({ doesWhat: "rocks!" }));
+</script>
 
 </body>
 </html>
